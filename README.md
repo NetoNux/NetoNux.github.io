@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
     <head>
         <link rel="stylesheet" href="./style/css/styles.css">
@@ -31,7 +31,7 @@
        
     </body> 
 </html>
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>My Page</title>
@@ -39,7 +39,7 @@
 <body>
   <button onclick="showNewPage()">Yes</button>
   <div id="newPageContent" style="display: none;">
-    <!DOCTYPE html>
+   
 <html lang="en">
     <head>
         <link rel="stylesheet" href="./style/css/yes_styles.css">
